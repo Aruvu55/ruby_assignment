@@ -1,0 +1,3 @@
+echo " This is a test file." > test.txt
+cat test.txt
+this is a test file
